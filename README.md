@@ -1,1 +1,4 @@
 # StockPredictionSystem
+Karlcass Stock Forecasting System is a kind of stock market prediction software developed by Java and Matlab language. It provides more practical investment policy analysis and investment information for retail investors, especially those who focused on short-term stock speculation arbitrage, through forecast of a certain stock and or Shanghai and Shenzhen Stock Exchange.
+
+Karlcass gathers information concerning A-shares on the board of Shanghai and Shenzhen Stock Exchange and uses SVM to model the trend of the stocks’ price changes. With the real-time data, it can predict stock prices in a short-term so that it can provide users with personalized stock investment advice according to different investment strategies. It helps investors seize the fleeting opportunity to achieve a stable low-risk yet high-yield profit.
